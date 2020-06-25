@@ -1,7 +1,7 @@
    **Microsoft Activation Scripts (MAS):**
 
    A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods 
-   with a focus on open-source code, less antivirus detection and user-friendliness.
+   with a focus on open-source code, less antivirus detection and user-friendliness. I recommend that you do not use the Online KMS version and instead use HWID or KMS38 instead. This fork removes the menu option for the online KMS in the all-in-one script. 
 
    **Homepages:**<br/>
    NsaneForums: (Login Required) https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/<br/>
@@ -50,8 +50,9 @@ https://www.nsaneforums.com/topic/316668--/?do=findComment&comment=1497887<br/>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-For any queries feel free to mail me at, windowsaddict@protonmail.com
+To contact the original author of this script, please email windowsaddict@protonmail.com
 
+To contact me, please email spicyboi319@protonmail.com
 
 
 Made with Love ❤️
